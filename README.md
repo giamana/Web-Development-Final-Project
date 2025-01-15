@@ -1,5 +1,6 @@
 # Web-Development-Final-Project
 
+[Figma Prototype]: https://www.figma.com/design/80n0LkXPDzVpPWkrjJGAEA/Bloom-and-Whimsy?t=rZdsLBWZFMuxFHPZ-0
 [Download Project ZIP]: https://github.com/giamana/Web-Development-Final-Project.git
 This is a simple project. To run it locally, follow these steps:
   1. Click the green **Code** button and select **Download ZIP**.
